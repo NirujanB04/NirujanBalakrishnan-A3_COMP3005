@@ -1,5 +1,4 @@
-Nirujan Balakrishnan - 101272636
-
+NirujanBalakrishnan
 Compile Instructions:
     Intialize the Database in the query by adding this:
         CREATE TABLE students (
