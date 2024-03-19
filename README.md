@@ -1,4 +1,7 @@
 # NirujanBalakrishnan-A3_COMP3005
+This project implements a PostgreSQL database using a provided schema and writing an application in java that connects to this database to perform specific CRUD (Create, Read, Update, Delete) operations.
+
+
 Compile Instructions:
     Intialize the Database in the query by adding this:
         CREATE TABLE students (
